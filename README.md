@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Lalit Deore</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="![Youtube Banner Design](https://github.com/user-attachments/assets/c38f9778-17ab-4ee1-ae9f-dd496ecdb9e7)"alt="lalitdeore" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitdeore&label=Profile%20views&color=0e75b6&style=flat""alt="lalitdeore" /> </p>
 
 
 - 🌱 I’m currently learning **Typescript and next.js**
